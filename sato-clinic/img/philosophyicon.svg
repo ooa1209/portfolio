@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 505.6 77.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #21dbc0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: TsukuBRdGothic-Bold-83pv-RKSJ-H, 'Tsukushi B Round Gothic';
+        font-size: 36px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_レイヤー_1" data-name="レイヤー_1">
+      <g>
+        <g>
+          <g>
+            <ellipse class="cls-1" cx="41.99" cy="38.5" rx="41.99" ry="37.5"/>
+            <ellipse class="cls-1" cx="91.26" cy="38.5" rx="41.99" ry="37.5"/>
+            <ellipse class="cls-1" cx="145.01" cy="38.5" rx="41.99" ry="37.5"/>
+            <ellipse class="cls-1" cx="199.61" cy="39.27" rx="41.99" ry="37.5"/>
+          </g>
+          <g>
+            <ellipse class="cls-1" cx="251.01" cy="38.5" rx="41.99" ry="37.5"/>
+            <ellipse class="cls-1" cx="305.61" cy="39.27" rx="41.99" ry="37.5"/>
+          </g>
+        </g>
+        <g>
+          <ellipse class="cls-1" cx="355.26" cy="39.5" rx="41.99" ry="37.5"/>
+          <ellipse class="cls-1" cx="409.01" cy="39.5" rx="41.99" ry="37.5"/>
+        </g>
+        <ellipse class="cls-1" cx="461.26" cy="39.5" rx="41.99" ry="37.5"/>
+      </g>
+      <text class="cls-2" transform="translate(71.45 49.53)"><tspan x="0" y="0">　医院の理念・方針　</tspan></text>
+    </g>
+  </g>
+</svg>

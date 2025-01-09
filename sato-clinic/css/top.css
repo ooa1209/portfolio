@@ -1,0 +1,354 @@
+@charset "UTF-8";
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 500;
+  font-style: normal;
+  /*font-family: "TsukuBRdGothic-Regular", sans-serif; */
+}
+header {
+  width: 1000px;
+  position: fixed;
+  z-index: 100;
+  background-color: white;
+}
+.headtop {
+  display: flex;
+  align-items: center;
+  height: 90px;
+  margin-top: 17px;
+  justify-content: center;
+}
+.logo {
+  width: 298px;
+}
+.phone {
+  width: 195px;
+  margin-bottom: 10px;
+}
+.headinfo {
+  flex-flow: column;
+  margin-left: 40px;
+}
+.toptext {
+  font-size: 14px;
+  color: #443736;
+}
+.navList {
+  margin-top: 14px;
+  display: flex;
+  font-size: 20px;
+  text-align: center;
+  list-style: none;
+  background-color: #5ee5cf;
+  line-height: 37px;
+}
+.navList .item {
+  width: calc((100% - 10%) / 5);
+  padding-left: 10px;
+  padding-right: 10px;
+  border-right: solid 2px #ffffff;
+  height: 37px;
+}
+.navList a {
+  text-decoration-line: none;
+  color: white;
+  /* border-right: solid 1px #ffffff;
+  border-right-width: 0; */
+}
+
+/* ヘッダー以下 */
+.top {
+  text-align: center;
+}
+.topimage {
+  width: 960px;
+  margin-top: 190px;
+}
+.copy {
+  font-size: 55px;
+  color: white;
+  margin-top: -287px;
+  text-shadow: 1px 1px 4px #000;
+}
+.top .timetable {
+  width: 507px;
+  margin-top: 77px;
+  margin-left: 390px;
+}
+
+/* トップ画像以下 */
+
+.news {
+  text-align: center;
+}
+.newsicon {
+  width: 187px;
+  margin-top: 40px;
+  margin-right: 405px;
+  margin-left: 405px;
+  margin-bottom: 27px;
+}
+.newslist a {
+  /* width: 563px; */
+  font-size: 24px;
+  color: #443736;
+  text-decoration-line: none;
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+  border-bottom: solid 1px #443736;
+  padding-bottom: 15px;
+  line-height: 60px;
+}
+.newslist {
+  position: relative;
+  z-index: 1;
+  text-align: left;
+  display: inline-block;
+  list-style: none;
+  padding: 52px;
+  font-weight: bold;
+  color: #443736;
+  background: #fff;
+  border: solid 6px #5ee5cf;
+  border-radius: 70px;
+}
+.news .newsbutton {
+  position: relative;
+  z-index: 10;
+  font-size: 30px;
+  display: block;
+  background: #ff6477;
+  width: 230px;
+  padding: 1rem;
+  border-radius: 9999px;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.1rem;
+  margin-left: 706px;
+  margin-top: -30px;
+}
+
+/* 診療時間 */
+.timeinfo {
+  background-color: #defff4;
+  margin-top: 27px;
+  text-align: center;
+  color: #443736;
+  font-size: 24px;
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+  height: 425px;
+}
+.timeicon {
+  width: 241px;
+  margin-top: 17px;
+  margin-right: 380px;
+  margin-left: 380px;
+  margin-bottom: 27px;
+}
+.timetable2 {
+  width: 643px;
+}
+.timetext {
+  margin-top: 34px;
+}
+.timetext2 {
+  margin-top: 22px;
+}
+
+/* 院長挨拶 */
+.aisatuicon {
+  width: 241px;
+  margin-top: 17px;
+  margin-right: 380px;
+  margin-left: 380px;
+  margin-bottom: 27px;
+}
+.aisatuimage1 {
+  width: 396px;
+  margin-top: -56px;
+  margin-left: 560px;
+}
+
+.aisatu {
+  text-align: center;
+  color: #443736;
+  font-size: 28px;
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 32px;
+}
+.aisatutext {
+  width: 840px;
+  line-height: 45px;
+  margin-top: -220px;
+  margin-left: 80px;
+  margin-right: 80px;
+  position: relative;
+  z-index: 5;
+  text-shadow: 0px 0px 3px #fff;
+}
+.aisatuimage2 {
+  position: relative;
+  z-index: 1;
+  margin-top: -115px;
+  margin-right: 500px;
+}
+
+/* コラム欄 */
+.aaa {
+  align-items: center;
+  background-color: #defff4;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 45px;
+  height: 630px;
+}
+.columnlinks {
+  display: flex;
+  margin-top: 27px;
+  justify-content: space-evenly;
+}
+.columnicon {
+  width: 187px;
+  margin-top: 40px;
+  margin-right: 410px;
+  margin-left: 410px;
+  margin-bottom: 27px;
+}
+.columnlinks a {
+  margin-left: 20px;
+  text-align: left;
+  font-size: 21px;
+  text-decoration-line: none;
+  color: #443736;
+  line-height: 30px;
+}
+.column1 {
+  width: 253px;
+  background-color: #fff;
+  border-radius: 50px;
+  height: 337px;
+}
+.column2 {
+  width: 253px;
+  background-color: #fff;
+  border-radius: 50px;
+}
+.column3 {
+  width: 253px;
+  background-color: #fff;
+  border-radius: 50px;
+}
+.columnimage1 {
+  width: 256px;
+  margin-top: 45px;
+  margin-bottom: 54px;
+}
+.columnimage2 {
+  width: 214px;
+  margin-bottom: 28px;
+  margin-left: 20px;
+}
+.columnimage3 {
+  width: 217px;
+  margin-bottom: 35px;
+  margin-left: 20px;
+}
+.columnbutton {
+  font-size: 30px;
+  display: block;
+  background: #ff6477;
+  width: 230px;
+  padding: 1rem;
+  border-radius: 9999px;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 0.1rem;
+  margin-left: 706px;
+  margin-top: 34px;
+  margin-bottom: 37px;
+}
+
+/* 所在地 */
+.map {
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 45px;
+  text-align: center;
+}
+.mapicon {
+  width: 187px;
+  text-align: center;
+}
+.maptext {
+  text-align: left;
+  margin-left: 160px;
+  font-size: 27px;
+  line-height: 46px;
+  color: #443736;
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+/* バナー */
+.banner {
+  text-align: center;
+  width: 825px;
+  margin: 0 auto;
+  margin-top: 86px;
+}
+.banner1 {
+  margin-bottom: 55px;
+}
+
+/* フッター */
+.footer {
+  text-align: center;
+  background-color: #defff4;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 45px;
+  height: 318px;
+}
+
+.footer1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer1 .logo {
+  width: 454px;
+  margin-top: 53px;
+}
+.footer1 .timetable {
+  width: 465px;
+  margin-top: 60px;
+}
+
+.footer2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer2 .phone {
+  width: 329px;
+  margin-top: 20px;
+}
+.footer2 .text {
+  font-size: 20px;
+  line-height: 30px;
+  color: #443736;
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 853.3 504">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 26px;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_レイヤー_1" data-name="レイヤー_1">
+      <g>
+        <image class="cls-2" width="2634" height="1486" transform="translate(23.1 23.5) scale(.3)" xlink:href="aboutimage8-1.png"/>
+        <rect class="cls-1" x="13" y="13" width="827.3" height="478" rx="39.1" ry="39.1"/>
+      </g>
+    </g>
+  </g>
+</svg>

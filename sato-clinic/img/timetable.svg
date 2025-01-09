@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 647.06 157.63">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #493d3b;
+      }
+
+      .cls-6 {
+        letter-spacing: .25em;
+      }
+
+      .cls-2, .cls-7 {
+        stroke: #21dbc0;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 24.55px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 26.85px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: TsukuBRdGothic-Regular-83pv-RKSJ-H, 'Tsukushi B Round Gothic';
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="_レイヤー_1" data-name="レイヤー_1">
+      <rect class="cls-1" x=".99" y="2" width="644.08" height="151.53" rx="30.87" ry="30.87"/>
+      <rect class="cls-7" x="2" y="2" width="643.06" height="153.63" rx="32.98" ry="32.98"/>
+      <line class="cls-2" x1="3.13" y1="52.23" x2="645.06" y2="52.63"/>
+      <text class="cls-5" transform="translate(240.88 36.08)"><tspan x="0" y="0">月</tspan></text>
+      <text class="cls-5" transform="translate(299.42 35.87)"><tspan x="0" y="0">火</tspan></text>
+      <text class="cls-5" transform="translate(357.97 35.67)"><tspan x="0" y="0">水</tspan></text>
+      <text class="cls-5" transform="translate(416.51 35.46)"><tspan x="0" y="0">木</tspan></text>
+      <text class="cls-5" transform="translate(475.06 36.29)"><tspan x="0" y="0">金</tspan></text>
+      <text class="cls-5" transform="translate(533.6 36.49)"><tspan x="0" y="0">土</tspan></text>
+      <text class="cls-5" transform="translate(592.14 36.7)"><tspan x="0" y="0">日</tspan></text>
+      <text class="cls-5" transform="translate(47.28 87.41)"><tspan class="cls-6" x="0" y="0">9</tspan><tspan x="20.35" y="0">時〜1</tspan><tspan class="cls-6" x="83.68" y="0">2</tspan><tspan x="104.03" y="0">時</tspan></text>
+      <text class="cls-5" transform="translate(39.28 136.08)"><tspan x="0" y="0">1</tspan><tspan class="cls-6" x="14.22" y="0">4</tspan><tspan x="34.57" y="0">時〜1</tspan><tspan class="cls-6" x="97.89" y="0">9</tspan><tspan x="118.25" y="0">時</tspan></text>
+      <circle class="cls-1" cx="252.6" cy="78.73" r="13.3"/>
+      <circle class="cls-1" cx="252.6" cy="129.88" r="13.3"/>
+      <circle class="cls-1" cx="311.94" cy="78.73" r="13.3"/>
+      <circle class="cls-1" cx="311.94" cy="129.88" r="13.3"/>
+      <circle class="cls-1" cx="369.23" cy="78.73" r="13.3"/>
+      <circle class="cls-1" cx="369.23" cy="129.88" r="13.3"/>
+      <circle class="cls-1" cx="487.9" cy="78.73" r="13.3"/>
+      <circle class="cls-1" cx="487.9" cy="129.88" r="13.3"/>
+      <circle class="cls-1" cx="545.19" cy="78.73" r="13.3"/>
+      <text class="cls-3" transform="translate(423.49 87.34)"><tspan x="0" y="0">/</tspan></text>
+      <text class="cls-3" transform="translate(423.49 138.49)"><tspan x="0" y="0">/</tspan></text>
+      <text class="cls-3" transform="translate(599.45 87.34)"><tspan x="0" y="0">/</tspan></text>
+      <text class="cls-3" transform="translate(599.45 138.49)"><tspan x="0" y="0">/</tspan></text>
+      <text class="cls-3" transform="translate(540.12 138.49)"><tspan x="0" y="0">/</tspan></text>
+      <text class="cls-4" transform="translate(59.39 39.02)"><tspan x="0" y="0">診療時間</tspan></text>
+    </g>
+  </g>
+</svg>
